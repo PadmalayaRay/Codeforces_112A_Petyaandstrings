@@ -1,0 +1,1 @@
+# Codeforces_112A_Petyaandstrings
